@@ -1,0 +1,5 @@
+C:\Users\Пользователь\Desktop\project\project\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\project\project\project\project\obj\Debug\DocumentControl.Form1.resources
+C:\Users\Пользователь\Desktop\project\project\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\project\project\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\project\project\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
